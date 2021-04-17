@@ -11,7 +11,6 @@
 		FA6C06E526273E50000FA627 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6C06E426273E50000FA627 /* ContentView.swift */; };
 		FA6C06E726273E51000FA627 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6C06E626273E51000FA627 /* Assets.xcassets */; };
 		FA6C06EA26273E51000FA627 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6C06E926273E51000FA627 /* Preview Assets.xcassets */; };
-		FA8CE9502628BDDD00F0E6B5 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8CE94F2628BDDD00F0E6B5 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +20,6 @@
 		FA6C06E626273E51000FA627 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA6C06E926273E51000FA627 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA6C06EB26273E51000FA627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA8CE94F2628BDDD00F0E6B5 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +54,6 @@
 			children = (
 				FA6C06E226273E50000FA627 /* HWS_13_InstafilterApp.swift */,
 				FA6C06E426273E50000FA627 /* ContentView.swift */,
-				FA8CE94F2628BDDD00F0E6B5 /* ImagePicker.swift */,
 				FA6C06E626273E51000FA627 /* Assets.xcassets */,
 				FA6C06EB26273E51000FA627 /* Info.plist */,
 				FA6C06E826273E51000FA627 /* Preview Content */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA8CE9502628BDDD00F0E6B5 /* ImagePicker.swift in Sources */,
 				FA6C06E526273E50000FA627 /* ContentView.swift in Sources */,
 				FA6C06E326273E50000FA627 /* HWS_13_InstafilterApp.swift in Sources */,
 			);
