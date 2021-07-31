@@ -1,4 +1,4 @@
-# HWS-13-Instafilter
+# Instafilter
 ### Relevant frameworks used:
 * SwiftUI
 * UIKit
